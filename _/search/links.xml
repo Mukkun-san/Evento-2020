@@ -1,0 +1,88 @@
+<pages>
+
+   <link>
+      <title>Packs</title><title>GOLD</title>
+      <url>index.php#features8-4</url>
+   </link>
+
+   <link>
+      <title>Clients</title>
+      <url>index.php#testimonials-slider1-i</url>
+   </link>
+
+   <link>
+      <title>Team</title>
+      <url>index.php#team1-l</url>
+   </link>
+
+   <link>
+      <title>Contact</title>
+      <url>index.php#form4-f</url>
+   </link>
+
+   <link>
+      <title>About</title>
+      <url>index.php#toggle2-1j</url>
+   </link>
+
+   <link>
+      <title>Previous Events</title>
+      <url>previous%20.php</url>
+   </link>
+
+   <link>
+      <title>Upcoming Events</title>
+      <url>upcoming.php</url>
+   </link>
+
+   <link>
+      <title>January 2020</title>
+      <url>january.php</url>
+   </link>
+
+   <link>
+      <title>February 2020</title>
+      <url>february.php</url>
+   </link>
+
+   <link>
+      <title>March 2020</title>
+      <url>march.php</url>
+   </link>
+
+   <link>
+      <title>Gallery</title>
+      <url>gallery.php</url>
+   </link>
+   
+   <link>
+      <title>Events</title>
+      <url>events.php</url>
+   </link>
+
+   <link>
+      <title>Services</title>
+      <url>services.php</url>
+   </link>
+
+   <link>
+      <title>Available Formats</title>
+      <url>Available%20Formats.php</url>
+   </link>
+
+   <link>
+      <title>Bronze</title>
+      <url>bronze.php</url>
+   </link>
+
+   <link>
+      <title>Silver</title>
+      <url>silver.php</url>
+   </link>
+
+   <link>
+      <title>Gold</title>
+      <url>gold.php</url>
+   </link>
+
+</pages>
